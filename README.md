@@ -1,15 +1,17 @@
 STU3-Dokumentation
 ==================
 
+Die Dokumentation wird mittels der Software [Sphinx](http://www.sphinx-doc.org) generiert und muss daher im rst-Format vorliegen.
+
 Setup
 -----
 
 Benötigte Software:
 
-- Sphinx (http://www.sphinx-doc.org)
+- Docker
 
 Generierung:
 
-- cd de && make html
+- make all
 
 Die Dokumentation befindet sich danach im `de/_build/html` Verzeichnis
