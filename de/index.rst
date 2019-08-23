@@ -6,7 +6,13 @@
 Star Trek Universe Dokumentation
 ================================
 
+Diese Dokumentation ist derzeit alles andere als vollständig und alle Inhalte
+beziehen sich auf den aktuellen Entwicklungsstand. Änderungen sind jederzeit
+möglich.
+
 Inhalt:
 
 .. toctree::
    :maxdepth: 2
+
+   howto/handel
