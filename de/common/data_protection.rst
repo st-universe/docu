@@ -1,6 +1,5 @@
 Datenschutzerklärung
---------------------
---------------------
+====================
 
 Bitte lies Dir diese Datenschutzerklärung aufmerksam durch. Diese erläutert explizit wie wir mit personenbezogenen Daten, die uns von Dir übermittelt worden sind, umgehen. Wenn Du unter 16 Jahre alt bist, darfst Du uns deine personenbezogenen Daten nur mit ausdrücklicher Zustimmung durch rechtliche Vertreter*innen übermitteln.
 Wir behalten uns das Recht vor, die Bedingungen unserer Datenschutzerklärung von Zeit zu Zeit anzupassen. Wenn wir grundlegende Änderungen vornehmen, werden wir Dich mittels einer Ankündigung auf unserer Website informieren, bevor die Änderung in Kraft tritt.

@@ -15,4 +15,5 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
 
+   common/common
    howto/handel
