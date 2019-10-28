@@ -3,6 +3,11 @@ Spielregeln
 
 Im folgenden werden die einzelnen Spielregeln für Star Trek Universe aufgelistet, mit denen man sich bei der Registrierung einverstanden erklärt.
 
+Präambel
+--------
+
+* Der Terminus "Spieler" ist nicht geschlechtsbezogen sondern neutral zu sehen.
+
 Account (1)
 -----------
 
@@ -45,7 +50,7 @@ Netiquette (5)
 Fairplay (6)
 ------------
 
-* Neue Spieler sollten das Recht bekommen, sich wie jeder andere an das Spiel zu gewöhnen und ihren Account aufbauen zu können. Ungerechtfertigte Angriffe (aber auch Erpressungsversuche, bestehlen ("farmen"), etc) können zur Löschung führen.
+* Neue Spieler sollten das Recht bekommen, sich wie jeder andere an das Spiel zu gewöhnen und den eigenen Account aufbauen zu können. Ungerechtfertigte Angriffe (aber auch Erpressungsversuche, bestehlen ("farmen"), etc) können zur Löschung führen.
 * Es sollte auch vermieden werden, Spieler aus dem Spiel zu "ekeln", sprich Ihnen den Spielspaß durch periodische Angriffe dauerhaft zu zerstören. Dies gilt nicht, wenn betreffende Spieler durch ihr Auftreten diese Aktionen provozieren. Hier wird die Spielleitung Einzelfallprüfungen vornehmen
 
 
@@ -67,9 +72,7 @@ Gerichtshof (8)
 Klauseln (9)
 ------------
 
-* Mit der Registrierung werden die Regeln automatisch akzeptiert.
+* Mit der Registrierung werden die Regeln bewusst und aktiv akzeptiert.
 * Die Spielregeln erheben keinen Anspruch auf Vollständigkeit und werden bei Bedarf erweitert/geändert. Diese Änderungen werden im Changelog bekannt gegeben.
 * Aktionen eines Spielers, die nicht direkt gegen bestehende Regeln verstoßen, können trotzdem geahndet werden.
-* Bei Fragen zu den Spielregeln kann man sich bei den Admins (Wolverine, Hux) erkundigen.
-
-
+* Bei Fragen zu den Spielregeln kann man sich bei den dafür zuständigen Teammitgliedern (Im Forum: Hux, Corbec, iceman) erkundigen.
