@@ -1,5 +1,5 @@
 Erste Schritte 
-======
+==============
 
 Diese Kurzanleitung beschreibt die ersten Schritte welcher ein Neuankömmling nach der Registrierung unbedingt erledigen sollte.
 

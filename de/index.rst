@@ -15,5 +15,6 @@ Inhalt:
 .. toctree::
    :maxdepth: 2
 
+   howto/firststeps
    common/common
    howto/handel
