@@ -16,6 +16,7 @@ Account (1)
 * Das Erstellen und Nutzen eines weiteren Spielzugangs - egal ob für sich selbst oder für andere - führt zur Löschung aller beteiligter Accounts.
 * Sollten mehrere Personen in einem Haushalt/einer WG leben und einen gemeinsamen Internetzugang nutzen, so sind diese Accounts zu trennen (keinerlei Warentransfers). Als ein Haushalt gelten auch alle Spieler, die über dieselbe IP am Spiel teilnehmen.
 * Zur Registrierung wird ein Registrierungsschlüssel (Key) eines bereits registrierten Spielers benötigt. Der einladende sowie der eingeladene Account befinden sich dann in einer Accountreihe.
+* Die Nutzung von technischen Maßnahmen zur Überwindung von Zugangsbeschränkungen ist nicht gestattet.
 
 
 Namen (2)
