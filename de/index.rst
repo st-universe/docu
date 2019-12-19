@@ -18,4 +18,5 @@ Inhalt:
    howto/firststeps
    common/common
    howto/alliance
+   howto/crew
    howto/handel
