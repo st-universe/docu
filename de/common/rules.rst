@@ -14,7 +14,9 @@ Account (1)
 * Erlaubt ist ein Spielaccount pro Person.
 * Das Verwalten, Weitergeben und Übernehmen von Accounts ist nicht erlaubt.
 * Das Erstellen und Nutzen eines weiteren Spielzugangs - egal ob für sich selbst oder für andere - führt zur Löschung aller beteiligter Accounts.
-* Sollten mehrere Personen in einem Haushalt/einer WG leben und einen gemeinsamen Internetzugang nutzen, so sind diese Accounts zu trennen (keinerlei Warentransfers). Als ein Haushalt gelten auch alle Spieler, die über dieselbe IP am Spiel teilnehmen.
+* Sollten mehrere Personen in einem Haushalt/einer WG leben und einen gemeinsamen Internetzugang nutzen, so ist dies der Spielleitung umgehend mitzuteilen. Als ein Haushalt gelten auch alle Spieler, die über dieselbe IP am Spiel teilnehmen.
+* Tritt der Fall §1 Abs.4 ein, sind die Accounts strikt von einander zu trennen. Dies bedeutet, dass jedlicher Warentransfer ob direkt, über das Handelsnetzwerk oder über dritte, zu unterlassen ist. Weiterhin ist es den Spielaccounts untersagt, Mitglied der selben Allianz zu sein. Schiffskämpfe bei denen die Accounts des Haushaltes auf der selben Seite sind, sind ebenso untersagt. Ausgenommen hiervon sind Allianzbedingte Kriege falls zwei oder mehrere Spieler in verbündeten Allianzen sind, welche aufgrund eines Krieges gegen den selben Feind miteinander agieren.
+* Die Spielleitung behält sich vor, Spieleraccounts welche nach §1 Abs.4 vorgeschoben werden und unabhängig von §1 Abs.5 missbräuchlich benutzt werden, zu löschen.
 * Zur Registrierung wird ein Registrierungsschlüssel (Key) eines bereits registrierten Spielers benötigt. Der einladende sowie der eingeladene Account befinden sich dann in einer Accountreihe.
 * Die Nutzung von technischen Maßnahmen zur Überwindung von Zugangsbeschränkungen ist nicht gestattet.
 
